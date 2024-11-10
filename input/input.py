@@ -20,4 +20,4 @@ print(f"You are {age2} years old.")
 
 print(f"Hello {name}!")
 print("HAPPY BIRTHDAY!")
-print(f"You are {age} years old.")
+print(f"You are {age} years old.")      # Affiche l'âge de l'utilisateur
